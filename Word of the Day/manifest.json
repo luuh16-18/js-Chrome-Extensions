@@ -1,0 +1,12 @@
+{
+    "name": "Word of the Day",
+    "version": "1.00",
+    "manifest_version": 3,
+    "description": "This is an extention, using an api, shows us the word of the day and its definition when we open a new tab.",
+    "chrome_url_overiddes": {
+        "newtab": "index.html"
+    },
+    "background": {
+        "service_worker": "background.html"
+    }
+}

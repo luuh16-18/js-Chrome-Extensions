@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "YT Link capturer",
+    "description": "This is an extension that is designed to capture links of recent watched videos on youtube.",
+    "version": "1.0",
+    "action": {
+        "default_icon": "icon2.png",
+        "default_popup": "index.html"
+    }
+}
